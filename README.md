@@ -29,7 +29,7 @@ python train.py --batch_size 2 --dataset PURE --num_rppg 160 --norm_type reconst
 - `shape_predictor_68_face_landmarks.dat`： Model for facial landmark detection.
 
 ### If HemNet is helpful, please cite our method:
-
+HemNet: Hemoglobin-Assistant Network for Video-based Remote Photoplethysmography Measurement. IEEE Transactions on Circuits and Systems for Video Technology. DOI: 10.1109/TCSVT.2025.3650742
 ```
 
 ```
